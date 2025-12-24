@@ -1,0 +1,51 @@
+id,old,new,sentiment,sentiment_id
+1,Yaxşı oldu tәşrif gәtirdiniz.,Gəlməyiniz yaxşı oldu.,positive,4
+2,"Tәvәqqe elәyirәm mirzә Cәlala nәsihәt elәyәsiniz ki, dәrslәrinә can yandırsın.","Ümid edirəm, Mirzə Cəlala dərslərinə diqqət yetirməsi üçün məsləhət verərsiniz.",positive,3
+3,"Bağışlayın, İskәndәr bәy, hәrçәnd bәndәnin tәrәfindәn küstaxlıqdır sizә nәsihәt elәmәk, amma uşaq tayfasına o cür sözlәri demәyiniz bir az bicadır.","Bağışlayın, İskəndər bəy, uşaqlara belə sözlər deməyin düzgün deyil.",negative,0
+4,"Mәn dәrs oxumamış elә xәyal elәrdim ki, dünyada bir zad bilirәm; amma elm oxuyandan sonra yәqin elәdim ki, heç zad bilmirәm.","Dərs oxumamışdan əvvəl düşünürdüm ki, dünyada bir şey bilirəm, amma oxuduqca başa düşdüm ki, heç nə bilmirəm.",negative,1
+5,Mәn dә sәnin yanından getmәnәm.,Mən də sənin yanından ayrılmayacağam.,negative,0
+6,"Gәl yapışım әlindәn, baş alıb bu vilayәtdәn çıxıb, qoyub gedәk.","Gəl, əlindən tutum, bu vilayəti tərk edib gedək.",negative,0
+7,Dәm qәnimәtәst.,Vaxt yaxşıdır.,positive,3
+8,Dәxi niyә durubsan?,Niyə hələ də durursan?,negative,1
+9,"Qaşında, dәhanında, dodağında eyib yox.","Qaşın, çənən və dodağın sağlamdır.",positive,4
+10,"Bir zәrrәcә zülfündә, buxağında eyib yox.",Saçında və yanağında heç bir qüsur yoxdur.,negative,0
+11,"Yәni lap dirilib, qәbirdәn çıxıb eşiyә?","Elə bil, dirilib, qəbirdən çıxıb qapıya gəlib?",negative,0
+12,"Hәlә bir para namәrdlәr müsәlmanlara mәzәmmәt elәyirlәr ki, uşaqlarını dәrsә qoymurlar.","Bir qrup kişi müsəlmanları tənqid edir ki, uşaqları dərs oxumur.",neutral,2
+13,"Yәni mәn başı küllü bilirdim ki, axırı belә olacaq.","Başladıqda bilirdim ki, sonunda belə olacaq.",neutral,2
+14,"Allaha şükür, mәqdurun var.","Şükür Allaha, yardımçı var.",positive,4
+15,"İncinar olsun, hәkim olsun, silitçi olsun.","İncinar olsun, həkim olsun, təmizləyici olsun.",negative,0
+16,Divanxanalarda heç mirzәliyә dә götürmürlәr. ,Divanxanalarda heç kim mirzəni qəbul etmir.,negative,0
+17,Allah baisin evini yıxsın.,Allah evini dağıtsın.,negative,0
+18,"Bari pәrvәrdigara, sәnin qüdrәtini tәrif elәmәyә dilim laldır.","Amma Allahım, sənin qüdrətini tərifləməyə söz tapmıram.",neutral,2
+19,"Ay ana, yazıq ana, dәxi qüssә elәmә, oğlun Kәrbәlayı Fәtulah dirilib. ","Ana, incimə, oğlun Kərbəlai Fətulah sağ-salamat qayıdıb.",negative,0
+20,Bir neçә gündәn sonra sәnә Xorasandan qırmızı başmaq gәtirәcәk.,Bir neçə gün sonra sənə Xorasandan qırmızı başmaq gətiriləcək.,negative,0
+21,"Min lәnәt olsun o kәslәrә ki, xudavәndi-alәmin hikmәtinә şәkk gәtirәlәr!","O kəslərə lənət olsun ki, Allahın hikmətinə şübhə gətirirlər!",positive,4
+22,Mәn vә mәndәn savayı yüz on dörd nәfәr qәbirdәn ricәt edib.,Mən və mənimlə birlikdə 114 nəfər qəbirdən dua etdik.,negative,0
+23,"Ancaq indi müxtәsәr surәtdә bunu deyә bilәrәm ki, Mәşhәdi-müqәddәsdә bir abid peyda olub, bunun ismi-şәrifi Şeyx Nәsrullahdır.","İndi qısa şəkildə deyə bilərəm ki, Məşhədi-müqəddəsdə bir abid peyda olub, adı Şeyx Nəsrullahdır.",neutral,2
+24,"Şeyx cәnabları neçә illәr ilә İsfahanda ülumi-xәfiyyatı tәhsil edәndәn sonra, tәşrif gәtiriblәr Xorasana.",Şeyx cənabları bir neçə il İsfahanda elmi-təhsil aldıqdan sonra Xorasana gəliblər.,negative,1
+25,"Burada neçә ay riyazәti-tam vә mücahideyi-lakәlamdan sonra, hәmin elmin xәfayasının istinbatına vә istixracına müttәle olub.",Burada bir neçə ay riyazət və elm çalışmasından sonra elmin tətbiqini öyrəniblər.,positive,3
+26,"Axırda bu niyyәtә düşüb ki, sübhanә vә tәalanın mәrhәmәtilә tәsxiri-әrvahә iqdam elәsin.","Axırda məqsəd belə olub ki, Allahın mərhəməti ilə ruhları xilas etsin.",negative,1
+27,"Macәranın tәfsilini, inşallah, gәlәndә özüm dil-cavabı nağıl elәrәm vә sәn eşidib mat vә heyran qalarsan. ","Macəranın təfsilini gələcəkdə özüm danışacağam, eşidəndə təəccüblənəcəksiniz.",positive,3
+28,"Cәmadiyәl-axirin on sәkkizinci günü, qәmәr süfla alәminә yavuqlaşan saatda, şeyx cәnabları Mәşhәdi-müqәddәsdә qürәba qәbristanına әhli-qübur ziyarәtinә gәlib.","Cəmadiyəl-axirin 18-ci günü, ayın qürub saatında, Şeyx cənabları Məşhədi-müqəddəsdə qəbirləri ziyarət edib.",positive,4
+29,"Tәsxirül-әmvat şәraitini әmәlә gәtirәndәn sonra, әvvәl başlayıb bir dua oxumağa vә sonra uca sәslә deyib.","Təsxirül-əvmat mərasimini etdikdən sonra əvvəl dua oxudu, sonra uca səslə danışdı.",negative,0
+30,"Gördüm başımın üstündә bir şәxs durub, uca qamәtli, qırx yaşında, abidi-saleh vә rәhmdil, siyәhçeşm vә rәngi-ruyi-mübarәkәş bәsәbzә mail vә ismi-mübarәkәş Şeyx Nәsrullah İsfәhani.","Başımın üstündə bir şəxs durdu, uca boylu, 40 yaşında, abid və saleh, gözləri qara, üzü xeyirxah, adı Şeyx Nəsrullah İsfəhani.",negative,0
+31,Fazili-bimisl vә abidi-müqәddәs Şeyx Nәsrullah rәcәb ayının qürrәsindә Mәşhәdi-müqәddәsdәn çıxacaq.,Şeyx Nəsrullah rəcəb ayının qürrəsində Məşhədi-müqəddəsdən çıxacaq.,neutral,2
+32,"Şeyx cәnablarının qәsdi bizim şәhәrimizdә bir gün qalıb vә әhli-qübur ziyarәtinә müşәrrәf olub, sonra yola düşüb getmәkdir.","Şeyx cənabları bir gün bizim şəhərdə qalıb, qəbir ziyarətinə qatıldılar, sonra yola çıxdılar.",negative,0
+33,"Ayın yeddisindә ya sәkkizindә şeyx cәnablarının pişvazına çıxıb, o pak vücuda layiqincә ehtiram göstәrsinlәr.",Ayın 7-si və ya 8-i şeyx cənablarının pişvazına çıxıb ehtiram göstərsinlər.,negative,0
+34,Bәlkә ağanın fәzilәtinin kәramәt vә mәrhәmәtindәn mәnim hәmşәhәrlilәrim bibәhrә qalmasınlar. ,Ağanın fəzilət və mərhəmətindən mənim həmşəhərlilərim faydalansınlar.,positive,4
+35,Hәr iki әlini göyә qalxızıb ağlayır.,Hər iki əlini qaldırıb ağlayır.,negative,0
+36,Allahın hikmәtinә әl aparmaq olmaz.,Allahın hikmətinə qarışmaq olmaz.,negative,0
+37,"A gәdә, ata arpa verin, yәhәr-әsbabı sazlayın. ","Ata, arpa verin, at üçün yem hazırlayın.",positive,3
+38,"Otaqlara fәrş salsınlar, qonaq gәlәcәk.","Otaqlara xalça sərilsin, qonaq gələcək.",positive,4
+39,Bir az çәpik tәrpәş!,Bir az sakit ol!,negative,0
+40,Elә deyәsәn tifil bu saat qabağımda can verir.,"Görünür, uşaq indi qabağımda ölür.",neutral,2
+41,"Hey, Zeynәb, vallah, fәndini duymuşam!","Hey, Zeynəb, vallah, dərsini öyrənmisən!",positive,4
+42,"Get dolanginәn, xamsәn hәnuz! ","Get dolaş, hələ iş bitməyib!",negative,0
+43,"Allah-taalanın hәr bar bәlası gәrәk bizim vilayәtә nazil ola, Şeyx cәnabları yolda bir az naxoş olub. ","Allahın hər bəlası bu vilayətə düşsə, şeyx cənabları yolda bir az xəstə oldu.",negative,0
+44,"Dadaş, elәdә qonaqdan tәvәqqe elә ki, әvvәl qabaqca mәni diriltsin.","Dadaş, qonaqdan xahiş et ki, əvvəlcə məni dirildsin.",negative,0
+45,Ürәk dünyanın hәvavü hәvәs mәrәzinә mübtәla olan vaxt Allahı yada salmağ rәğbәt etmәz.,Ürək dünyaya bağlı olduqda Allahı xatırlamaq olmur.,neutral,2
+46,"Mәrkubatın әşrәfi atdır ki, onu minәn hәmişә xәtadadır. ","Mərkubatın əşrəfi atdır ki, o həmişə səhvlidir.",positive,3
+47,Mәzaci-şәrifiniz inşallah sәlamәtdir?,"Ümid edirəm, mizacınız yaxşıdır?",neutral,2
+48,Allah-taala siz tәk ülәmanın sayәsini bizim üstümüzdәn әskik elәmәsin.,Allah-taala siz tək alimlərin köməyini bizdən əsirgəməsin.,positive,4
+49,"Ağayi-mәn, bu şәhәrdә sizdәn savayı da әcnәbi dәrsini oxuyan var, yainki siz iki nәfәrsiniz?","Ağayi-mən, bu şəhərdə sizdən başqa dərs oxuyan yoxdur, ya da yalnız siz ikinizsiniz?",negative,1
+50,"Hacı Hәsәn ağanın oğlu da Firәngistanda oxuyub; amma çifayda ki, axırı peşimanlıq olub. ","Hacı Həsən ağanın oğlu da Fransada oxuyub, amma sonunda peşman oldu.",neutral,2
